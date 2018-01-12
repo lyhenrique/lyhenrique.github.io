@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>LYH&#39;s Blog</title>
+  <title>May the force be with you</title>
   
   <subtitle>All good things</subtitle>
   <link href="/hexo_blog/atom.xml" rel="self"/>
   
-  <link href="http://116.62.21.53/hexo_blog/"/>
+  <link href="http://lyhenrique.github.io/hexo_blog/"/>
   <updated>2018-01-12T02:53:39.055Z</updated>
-  <id>http://116.62.21.53/hexo_blog/</id>
+  <id>http://lyhenrique.github.io/hexo_blog/</id>
   
   <author>
     <name>Eric Liu</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://116.62.21.53/hexo_blog/2018/01/12/hello-world/"/>
-    <id>http://116.62.21.53/hexo_blog/2018/01/12/hello-world/</id>
+    <link href="http://lyhenrique.github.io/hexo_blog/2018/01/12/hello-world/"/>
+    <id>http://lyhenrique.github.io/hexo_blog/2018/01/12/hello-world/</id>
     <published>2018-01-12T02:53:39.055Z</published>
     <updated>2018-01-12T02:53:39.055Z</updated>
     
