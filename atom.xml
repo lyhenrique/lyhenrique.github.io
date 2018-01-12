@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://lyhenrique.github.io/"/>
-  <updated>2018-01-12T08:57:40.415Z</updated>
+  <updated>2018-01-12T09:18:04.284Z</updated>
   <id>http://lyhenrique.github.io/</id>
   
   <author>
@@ -17,13 +17,13 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
+    <title>第一篇文章</title>
     <link href="http://lyhenrique.github.io/2018/01/12/first-test/"/>
     <id>http://lyhenrique.github.io/2018/01/12/first-test/</id>
-    <published>2018-01-12T08:57:40.425Z</published>
-    <updated>2018-01-12T08:57:40.415Z</updated>
+    <published>2018-01-12T09:18:04.287Z</published>
+    <updated>2018-01-12T09:18:04.284Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="第一篇文章"><a href="#第一篇文章" class="headerlink" title="第一篇文章"></a>第一篇文章</h1><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">main</span><span class="params">(String[] args)</span> </span>&#123;</span><br><span class="line">  System.out.println(<span class="string">"我的博客系统开放啦！"</span>)</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<h1 id="第一篇文章"><a href="#第一篇文章" class="headerlink" title="第一篇文章"></a>第一篇文章</h1><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">main</span><span class="params">(String[] args)</span> </span>&#123;</span><br><span class="line">  System.out.println(<span class="string">"我的博客系统开放啦！"</span>);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
     
